@@ -31,7 +31,7 @@ If we press "Run ASYNC" the program will add 500 same subjects with same grade a
 <img src="images/5.PNG" width="">
 
 We can return to the home screen and delete all passed subjects for each student from the database
-if we press the button "Reamove all".
+if we press the button "Remove all".
 
 <img src="images/6.PNG" width="">
 Finally we have the button "Print". 
