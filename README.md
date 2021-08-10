@@ -22,7 +22,7 @@ In this picture we see that the subject Introduction to IT has been added.
 <img src="images/third.PNG" width="">
 In the left corner we have the check box called "Load unpassed subjects".
 If we check the box in tabele called "Subject" will be load only the subjects that the student didnt pass. 
-In this case in the table will be Mathematicis and becouse Introduction to IT is already added.
+In this case in the table will be Mathematicis and Programing II becouse Introduction to IT is already added.
 
 <img src="images/4.PNG" width="">
 
